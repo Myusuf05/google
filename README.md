@@ -11,4 +11,4 @@ Step 2: Type something.
 
 Step 3: Search or Copy link and share it
 
-Step 4/Main: Open shared link e.g. https://neerooa.live/google/?input=twitter.com%2FNeerooaYusuf
+Step 4/Main: Open shared link e.g. https://neerooa.live/google/?input=twitter%20NeerooaYusuf
